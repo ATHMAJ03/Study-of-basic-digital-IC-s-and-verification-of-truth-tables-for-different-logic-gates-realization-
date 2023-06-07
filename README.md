@@ -81,12 +81,12 @@ xnor (y7,a,b);
 endmodule 
 ```
 ## Output:
-Logic symbol & Truthtable
+### Logic symbol & Truthtable
 ![output](https://user-images.githubusercontent.com/93427522/189794412-9f6e0db3-b407-4f48-a4a7-ba4fc6c1fa0c.jpg)
-RTL realization
+### RTL realization
 ![output](https://user-images.githubusercontent.com/93427522/189667001-05f56615-6b9a-47a0-994a-a9577b34be01.png)
-
-
+### Timing Diagram:
+![image](https://github.com/ATHMAJ03/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118753139/fa7424f2-56ee-4ace-85c5-107e0d245123)
 
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
